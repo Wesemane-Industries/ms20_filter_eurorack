@@ -1,0 +1,3 @@
+[submodule "libraries/eurocad"]
+	path = libraries/eurocad
+	url = git@github.com:nebs/eurocad.git
